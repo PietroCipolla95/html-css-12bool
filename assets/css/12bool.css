@@ -120,10 +120,6 @@
     width: calc(100% / 12 * 11);
 }
 
-.offset-col-12 {
-    width: 100%;
-}
-
 /* #endregion Offsets */
 
 
