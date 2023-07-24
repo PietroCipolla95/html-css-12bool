@@ -3,11 +3,20 @@
 }
 
 .card {
-    width: 100%;
     height: 50px;
     background-color: palegreen;
     display: flex;
     align-items: center;
     justify-content: center;    
 }
+
+[class^="col"] > .nest {
+    padding: 1rem;
+}
+
+.nest {
+    background-color: white;
+    height: 30px;
+}
+
 
