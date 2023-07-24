@@ -1,0 +1,19 @@
+
+body {
+    background-color: lightpink;
+}
+
+
+
+[class^="col"] {
+    height: 40px;
+    aspect-ratio: 1;
+    background-color: red;
+}
+
+.love {
+    margin-top: 2rem;
+}
+
+
+
